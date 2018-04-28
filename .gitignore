@@ -1,0 +1,28 @@
+
+
+#For Scala
+target
+*.class
+
+# For Intellij
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# For Vim
+tags
+.*.swp
+.*.swo
+
+# For Eclipse (Scala Ide)
+build
+.classpath
+.project
+.settings
+org.scala-ide.sdt.core/META-INF/MANIFEST.MF
+org.scala-ide.sdt.update-site/site.xml`
+
+#For macOS:
+.DS_Store
